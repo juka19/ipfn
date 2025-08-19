@@ -17,7 +17,7 @@ The algorithm recognizes the input variable type and and uses the appropriate ve
 For more information and examples, please visit:
 
 *   `wikipedia page on ipf <https://en.wikipedia.org/wiki/Iterative_proportional_fitting>`_
-*   `slides explaining the methodology and links to specific examples <http://www.demog.berkeley.edu/~eddieh/IPFDescription/AKDOLWDIPFTWOD.pdf>`_
+*   `slides explaining the methodology and links to specific examples <https://edyhsgr.github.io/IPFDescription/AKDOLWDIPFTHREED.pdf>`_
 *   https://github.com/Dirguis/ipfn
 
 ----
@@ -75,7 +75,7 @@ Below is that example solved with IPFN::
 
 Example with the numpy version of the algorithm:
 ------------------------------------------------
-Please, follow the example below to run the package. Several additional examples in addition to the one listed below, are listed in the ipfn.py script. This example is taken from `<http://www.demog.berkeley.edu/~eddieh/IPFDescription/AKDOLWDIPFTHREED.pdf>`_
+Please, follow the example below to run the package. Several additional examples in addition to the one listed below, are listed in the ipfn.py script. This example is taken from `<https://edyhsgr.github.io/IPFDescription/AKDOLWDIPFTHREED.pdf>`_
 
 First, let us define a matrix of N=3 dimensions, the matrix being of specific size 2*4*3 and populate that matrix with some values ::
 
